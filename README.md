@@ -1,4 +1,3 @@
-# DjangoPythonBootcamp
+# JojoDoesHTML
 
-This repository covering HTML,CSS,Javascript,Bootstrap,Django and SQLite
-Making myself a Full-stack developer !!
+This repository covers HTML from zero to hero
